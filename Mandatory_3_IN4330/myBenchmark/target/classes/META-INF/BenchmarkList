@@ -1,0 +1,4 @@
+JMH S 25 com.benchmark.MyBenchmark S 61 com.benchmark.jmh_generated.MyBenchmark_testFactorize_jmhTest S 13 testFactorize S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E E E E E E 
+JMH S 25 com.benchmark.MyBenchmark S 65 com.benchmark.jmh_generated.MyBenchmark_testFactorizePara_jmhTest S 17 testFactorizePara S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E E E E E E 
+JMH S 25 com.benchmark.MyBenchmark S 57 com.benchmark.jmh_generated.MyBenchmark_testSieve_jmhTest S 9 testSieve S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E E E E E E 
+JMH S 25 com.benchmark.MyBenchmark S 60 com.benchmark.jmh_generated.MyBenchmark_testSievePar_jmhTest S 12 testSievePar S 10 Throughput E A 1 1 1 E I 1 2 E E I 1 3 E E I 1 1 E E E E E E E E E 
